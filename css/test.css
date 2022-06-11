@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+}
+
+#header nav {
+    background-color: red;
+    display: inline;
+}
+
+#SectionLink {
+    background-color: yellow;
+}
+
+#SectionLink a {
+    color: pink;
+    text-decoration: none;
+    display: inline;
+}
