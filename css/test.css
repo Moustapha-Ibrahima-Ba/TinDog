@@ -16,3 +16,24 @@ body {
     text-decoration: none;
     display: inline;
 }
+
+#pricing {
+    background-color: #e48220;
+}
+
+.spece {
+    background-color: white;
+    display: inline-block;
+}
+
+#pricing div {
+    align-items: center;
+}
+
+.chihuahua {
+    float: left;
+}
+
+.labrador {
+    justify-items: center;
+}
