@@ -37,3 +37,13 @@ body {
 .labrador {
     justify-items: center;
 }
+
+footer {
+    text-align: center;
+    background-color: #00ff00;
+    height: 50px;
+}
+
+footer p {
+    padding-top: 20px;
+}
